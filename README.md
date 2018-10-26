@@ -2,4 +2,4 @@
 
 ---
 
-Now that the web hook is working...
+Now that the web hook is working using Azure SignalR
