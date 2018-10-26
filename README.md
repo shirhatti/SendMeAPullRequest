@@ -9,4 +9,6 @@ Scan the barcode below to open the repository in your mobile browser, then use t
 
 And please, make changes below the line below, and thanks for not submitting anything NSFW. 
 
+![barcode](barcode.gif)
+
 --- 
